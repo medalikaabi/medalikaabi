@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name":" Luxury House with nice view",
+        "price": 200,
+        "image": "assets/img1.jpg"
+    },
+    {
+        "id": 2,
+        "name":" Amazing house fully equipped",
+        "price": 250,
+        "image": "assets/img3.jpg"
+    },
+    {
+        "id": 3,
+        "name":" wonderful room",
+        "price": 290,
+        "image": "assets/img4.jpg"
+    },
+    {
+        "id": 4,
+        "name":" Modern room",
+        "price": 200,
+        "image": "assets/img9.jpg"
+    },
+    {
+        "id": 5,
+        "name":" Vintage style",
+        "price": 300,
+        "image": "assets/img5.jpg"
+    },
+    {
+        "id": 7,
+        "name":" Deal of the week",
+        "price": 200,
+        "image": "assets/img7.jpg"
+    },
+    {
+        "id": 8,
+        "name":" Serenity",
+        "price": 200,
+        "image": "assets/img8.jpg"
+    }
+
+]

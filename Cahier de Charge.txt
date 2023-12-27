@@ -1,0 +1,21 @@
+Cahier de Charge:
+
+1. Les acteurs sont de nombre de 3:
+- Le client
+- le Owner
+-L'administrateur
+
+2. Pour chaque owner, le nomre de maisons à ajouter ne doit pas dépasser les 3 maisons.
+- Chaque maison ajouté ne doit pas avoir plus que 10 chambres.
+- L'ajout de maison doit inclure le nom, l'adresse, la vue, la cité et les chambres
+- La chambre ajoutée doit inclure le nom, la capacité, la description et le prix.
+
+3- Pour le client, il pourra consulter ses maisons et ses chambres, chercher uune maison ou chambre par nom et consulter les réservations.
+
+4- Le client peut chercher une maison par nom et voir les chambres.
+
+5- Le login doit se faire par tel et password.
+
+6- le signup:
+  1. Client: FN, LN, email, password, tel et adresse.
+  2. L'owner: FN, LN, email, password, tel, adresse, fax et patente
